@@ -4,17 +4,17 @@
   
     
     <entry>
-      <title>计组day1</title>
-      <link href="/2024/10/29/%E8%AE%A1%E7%BB%84day1/"/>
-      <url>/2024/10/29/%E8%AE%A1%E7%BB%84day1/</url>
+      <title>关于博客的一些疑惑与解答</title>
+      <link href="/2024/10/29/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E4%BA%9B%E7%96%91%E6%83%91%E4%B8%8E%E8%A7%A3%E7%AD%94/"/>
+      <url>/2024/10/29/%E5%85%B3%E4%BA%8E%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%B8%80%E4%BA%9B%E7%96%91%E6%83%91%E4%B8%8E%E8%A7%A3%E7%AD%94/</url>
       
-        <content type="html"><![CDATA[<h1 id="计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了"><a href="#计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了" class="headerlink" title="计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了"></a>计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了</h1><h2 id="原码、补码的快速转换"><a href="#原码、补码的快速转换" class="headerlink" title="原码、补码的快速转换"></a>原码、补码的快速转换</h2><p><img src="0.png"></p><h2 id="运算规则"><a href="#运算规则" class="headerlink" title="运算规则"></a>运算规则</h2><p>1.加法运算：符号位也要参与运算<br><img src="1.png"><br>2.减法运算：无符号与补码的减法规则相同。全部取反，末尾加一<br><img src="2.png"></p><h2 id="变补"><a href="#变补" class="headerlink" title="变补"></a>变补</h2><p><img src="3.png"></p><h2 id="零碎"><a href="#零碎" class="headerlink" title="零碎"></a>零碎</h2><p>1.补码符号位取反就是移码<br>2.异或运算<br>3.<img src="2.png" alt="几种码表示整数"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识"><a href="#在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识" class="headerlink" title="在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识"></a>在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识</h1><h2 id="新建post时同时新建一个资源文件夹（asset-folder）存放该文章特有的图片、视频、音频或其他媒体文件。"><a href="#新建post时同时新建一个资源文件夹（asset-folder）存放该文章特有的图片、视频、音频或其他媒体文件。" class="headerlink" title="新建post时同时新建一个资源文件夹（asset folder）存放该文章特有的图片、视频、音频或其他媒体文件。"></a>新建post时同时新建一个资源文件夹（asset folder）存放该文章特有的图片、视频、音频或其他媒体文件。</h2><p><img src="0.png" alt="相关代码（也算作示例）"></p><h2 id="新建的page还是post"><a href="#新建的page还是post" class="headerlink" title="新建的page还是post"></a>新建的page还是post</h2><p><img src="1.png" alt="Git Bash上的操作"><br>附上两个的命令<br>1.hexo new post “post名”<br>2.hexo new page “page名”</p>]]></content>
       
       
       
         <tags>
             
-            <tag> 计组 </tag>
+            <tag> blog </tag>
             
         </tags>
       
@@ -23,17 +23,17 @@
     
     
     <entry>
-      <title>风风光光</title>
-      <link href="/2024/09/06/%E9%A3%8E%E9%A3%8E%E5%85%89%E5%85%89/"/>
-      <url>/2024/09/06/%E9%A3%8E%E9%A3%8E%E5%85%89%E5%85%89/</url>
+      <title>计组day1</title>
+      <link href="/2024/10/29/%E8%AE%A1%E7%BB%84day1/"/>
+      <url>/2024/10/29/%E8%AE%A1%E7%BB%84day1/</url>
       
-        <content type="html"><![CDATA[<h2 id="喜欢奶龙的小朋友们你们好呀"><a href="#喜欢奶龙的小朋友们你们好呀" class="headerlink" title="喜欢奶龙的小朋友们你们好呀"></a>喜欢奶龙的小朋友们你们好呀</h2><p>常年发奶龙的人大都目光灵敏，极度自信，且智商逐年上升，最后完全沦为天才。发奶龙会加强身体健康，引发各种特异功能。人一旦开始发奶龙就说明这个人的智慧品行样貌通通都是上等，这辈子只能在象牙塔里呼风唤雨。发奶龙的人具有强烈的造福社会倾向，对治安稳定造成强化，保护正常人的生命。<br><img src="0.png"><br><img src="1.png"><br><img src="2.png"><br><img src="3.png"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了"><a href="#计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了" class="headerlink" title="计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了"></a>计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了</h1><h2 id="原码、补码的快速转换"><a href="#原码、补码的快速转换" class="headerlink" title="原码、补码的快速转换"></a>原码、补码的快速转换</h2><p><img src="0.png"></p><h2 id="运算规则"><a href="#运算规则" class="headerlink" title="运算规则"></a>运算规则</h2><p>1.加法运算：符号位也要参与运算<br><img src="1.png"><br>2.减法运算：无符号与补码的减法规则相同。全部取反，末尾加一<br><img src="2.png"></p><h2 id="变补"><a href="#变补" class="headerlink" title="变补"></a>变补</h2><p><img src="3.png"></p><h2 id="零碎"><a href="#零碎" class="headerlink" title="零碎"></a>零碎</h2><p>1.补码符号位取反就是移码<br>2.异或运算<br>3.用几种码表示整数<br><img src="4.png" alt="几种码表示整数"></p>]]></content>
       
       
       
         <tags>
             
-            <tag> 怪话 </tag>
+            <tag> 计组 </tag>
             
         </tags>
       
