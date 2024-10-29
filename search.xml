@@ -4,17 +4,17 @@
   
     
     <entry>
-      <title>闲谈</title>
-      <link href="/2024/09/09/%E9%97%B2%E8%B0%88/"/>
-      <url>/2024/09/09/%E9%97%B2%E8%B0%88/</url>
+      <title>计组day1</title>
+      <link href="/2024/10/29/%E8%AE%A1%E7%BB%84day1/"/>
+      <url>/2024/10/29/%E8%AE%A1%E7%BB%84day1/</url>
       
-        <content type="html"><![CDATA[<h2 id="如图"><a href="#如图" class="headerlink" title="如图"></a>如图</h2><p><img src="0.png"></p><h2 id="总之，决定将游记上传在博客上了"><a href="#总之，决定将游记上传在博客上了" class="headerlink" title="总之，决定将游记上传在博客上了"></a>总之，决定将游记上传在博客上了</h2><p>虽然可能也没有什么人在意<br>但会偶尔忆起史铁生的话</p><h1 id="“有些邮票用来邮寄，但有些邮票只是用来收藏”"><a href="#“有些邮票用来邮寄，但有些邮票只是用来收藏”" class="headerlink" title="“有些邮票用来邮寄，但有些邮票只是用来收藏”"></a>“有些邮票用来邮寄，但有些邮票只是用来收藏”</h1><p>词不达意致歉</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了"><a href="#计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了" class="headerlink" title="计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了"></a>计组的学习，将一些自认为重要的东西梳理一遍，也算巩固了</h1><h2 id="原码、补码的快速转换"><a href="#原码、补码的快速转换" class="headerlink" title="原码、补码的快速转换"></a>原码、补码的快速转换</h2><p><img src="0.png"></p><h2 id="运算规则"><a href="#运算规则" class="headerlink" title="运算规则"></a>运算规则</h2><p>1.加法运算：符号位也要参与运算<br><img src="1.png"><br>2.减法运算：无符号与补码的减法规则相同。全部取反，末尾加一<br><img src="2.png"></p><h2 id="变补"><a href="#变补" class="headerlink" title="变补"></a>变补</h2><p><img src="3.png"></p><h2 id="零碎"><a href="#零碎" class="headerlink" title="零碎"></a>零碎</h2><p>1.补码符号位取反就是移码<br>2.异或运算<br>3.<img src="2.png" alt="几种码表示整数"></p>]]></content>
       
       
       
         <tags>
             
-            <tag> 零零碎碎 </tag>
+            <tag> 计组 </tag>
             
         </tags>
       
@@ -34,25 +34,6 @@
         <tags>
             
             <tag> 怪话 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>something</title>
-      <link href="/2024/09/05/something/"/>
-      <url>/2024/09/05/something/</url>
-      
-        <content type="html"><![CDATA[<h2 id="碎碎念"><a href="#碎碎念" class="headerlink" title="碎碎念"></a>碎碎念</h2><p>最终还是磕磕绊绊地把博客搭好了捏</p><h3 id="很感谢给我发图的uu们"><a href="#很感谢给我发图的uu们" class="headerlink" title="很感谢给我发图的uu们"></a>很感谢给我发图的uu们</h3><p>博客每天都会更换图片，会把饱饱们喜欢的图片都展示出来的</p>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 碎碎念 </tag>
             
         </tags>
       
