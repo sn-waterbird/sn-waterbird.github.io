@@ -4,11 +4,49 @@
   
     
     <entry>
+      <title>计组day3</title>
+      <link href="/2024/11/04/%E8%AE%A1%E7%BB%84day3/"/>
+      <url>/2024/11/04/%E8%AE%A1%E7%BB%84day3/</url>
+      
+        <content type="html"><![CDATA[<h2 id="原码的加减运算"><a href="#原码的加减运算" class="headerlink" title="原码的加减运算"></a>原码的加减运算</h2><p><img src="0.png"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 计组 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>计组day2</title>
+      <link href="/2024/11/04/%E8%AE%A1%E7%BB%84day2/"/>
+      <url>/2024/11/04/%E8%AE%A1%E7%BB%84day2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="阶码与尾数"><a href="#阶码与尾数" class="headerlink" title="阶码与尾数"></a>阶码与尾数</h2><p><img src="0.png"><br><img src="2.png" alt="例题1"></p><h2 id="浮点数的表示"><a href="#浮点数的表示" class="headerlink" title="浮点数的表示"></a>浮点数的表示</h2><p><img src="1.png"></p><h2 id="浮点数尾数规格化"><a href="#浮点数尾数规格化" class="headerlink" title="浮点数尾数规格化"></a>浮点数尾数规格化</h2><p><img src="3.png" alt="例题1（补充）"><br><img src="4.png" alt="双符号位的好处"><br><img src="5.png"></p><h2 id="移码"><a href="#移码" class="headerlink" title="移码"></a>移码</h2><h3 id="初认识"><a href="#初认识" class="headerlink" title="初认识"></a>初认识</h3><p><img src="6.png"></p><h3 id="移码的定义"><a href="#移码的定义" class="headerlink" title="移码的定义"></a>移码的定义</h3><p><img src="7.png"></p><h2 id="IEEE754标准"><a href="#IEEE754标准" class="headerlink" title="IEEE754标准"></a>IEEE754标准</h2><p><img src="8.png" alt="尾数隐含最高位1"><br><img src="9.png" alt="例题2"></p><h1 id="例题"><a href="#例题" class="headerlink" title="例题"></a>例题</h1><p><img src="10.png" alt="例题3"><br><img src="11.png" alt="例题4"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 计组 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>博客使用指北</title>
       <link href="/2024/10/29/%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8C%97/"/>
       <url>/2024/10/29/%E5%8D%9A%E5%AE%A2%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8C%97/</url>
       
-        <content type="html"><![CDATA[<h1 id="在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识"><a href="#在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识" class="headerlink" title="在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识"></a>在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识</h1><h2 id="新建post时同时新建一个资源文件夹（asset-folder）存放该文章特有的图片、视频、音频或其他媒体文件。"><a href="#新建post时同时新建一个资源文件夹（asset-folder）存放该文章特有的图片、视频、音频或其他媒体文件。" class="headerlink" title="新建post时同时新建一个资源文件夹（asset folder）存放该文章特有的图片、视频、音频或其他媒体文件。"></a>新建post时同时新建一个资源文件夹（asset folder）存放该文章特有的图片、视频、音频或其他媒体文件。</h2><p><img src="0.png" alt="相关代码（也算作示例）"></p><h2 id="新建的page还是post"><a href="#新建的page还是post" class="headerlink" title="新建的page还是post"></a>新建的page还是post</h2><p><img src="1.png" alt="Git Bash上的操作"><br>附上两个的命令<br>1.hexo new post “post名”<br>2.hexo new page “page名”</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识"><a href="#在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识" class="headerlink" title="在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识"></a>在搭建博客时遇到的一些问题，以及一些没过多久猪鼻脑子就会忘了的知识</h1><h3 id="新建post时同时新建一个资源文件夹（asset-folder）存放该文章特有的图片、视频、音频或其他媒体文件。"><a href="#新建post时同时新建一个资源文件夹（asset-folder）存放该文章特有的图片、视频、音频或其他媒体文件。" class="headerlink" title="新建post时同时新建一个资源文件夹（asset folder）存放该文章特有的图片、视频、音频或其他媒体文件。"></a>新建post时同时新建一个资源文件夹（asset folder）存放该文章特有的图片、视频、音频或其他媒体文件。</h3><p><img src="0.png" alt="相关代码（也算作示例）"></p><h3 id="新建的page还是post"><a href="#新建的page还是post" class="headerlink" title="新建的page还是post"></a>新建的page还是post</h3><p><img src="1.png" alt="Git Bash上的操作"><br>附上两个的命令<br>1.hexo new post “post名”<br>2.hexo new page “page名”</p>]]></content>
       
       
       
